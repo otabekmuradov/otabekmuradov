@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/otabekmuradov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
-  <a href="[https://mail.google.com/mail/otabey777@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=otabey777@gmail.com&su=Appeal&body=Hi!)" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=otabey777@gmail.com&su=Appeal&body=Hi!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
   <a href="https://t.me/dizeros" target="_blank">
