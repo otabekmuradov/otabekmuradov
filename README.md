@@ -1,6 +1,9 @@
 <h3 align="center">Hi 👋! My name is Otabek and I'm a Flutter Developer</h3>
 
+<div align="center">
+
 [![Hello World, I'm Otabek!](assets/header.gif)](https://github.com/otabekmuradov)
+</div>
 
 ###
 
