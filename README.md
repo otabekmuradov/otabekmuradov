@@ -1,7 +1,6 @@
 <h3 align="center">Hi 👋! My name is Otabek and I'm a Flutter Developer</h3>
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm Otabek!](assets/header.gif)](https://github.com/otabekmuradov)
 
 ###
 
