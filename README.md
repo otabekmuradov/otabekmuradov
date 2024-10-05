@@ -4,13 +4,11 @@
 
 <h3 align="center">Hi 👋! My name is Otabek and I'm a Flutter Developer</h3>
 
-###
 
   <img src="https://github-readme-stats.vercel.app/api?username=otabekmuradov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=otabekmuradov&locale=en&mode=daily&theme=bear&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekmuradov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true" height="150" alt="languages graph"  />
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
@@ -28,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/otabekmuradov/" target="_blank">
@@ -42,4 +39,3 @@
   </a>
 </div>
 
-###
