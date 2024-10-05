@@ -1,7 +1,9 @@
 <div align="center">
 [![Hello World, I'm Otabek!](assets/header.gif)](https://github.com/otabekmuradov)
-<h3 align="center">Hi 👋! My name is Otabek and I'm a Flutter Developer</h3>
 </div>
+
+<h3 align="center">Hi 👋! My name is Otabek and I'm a Flutter Developer</h3>
+
 ###
 
   <img src="https://github-readme-stats.vercel.app/api?username=otabekmuradov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true" height="150" alt="stats graph"  />
